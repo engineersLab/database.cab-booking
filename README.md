@@ -1,4 +1,4 @@
-# Migration file - `cab-booking` database
+## Migration file - `cab-booking` database
 
 ## QUICK START INSTRUCTIONS
 ### Db setup
